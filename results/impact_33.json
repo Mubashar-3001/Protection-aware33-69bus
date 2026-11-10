@@ -1,0 +1,88 @@
+{
+ "feeder": "33",
+ "by_type": {
+  "3ph": {
+   "quantity": "max phase",
+   "primary_max_increase": 0.12378876344076262,
+   "primary_max_decrease": -0.14040375410189465,
+   "primary_p95_abs": 0.058405856985192385,
+   "backup_max_increase": 0.2022226581258253,
+   "backup_max_decrease": -0.2041616825622562,
+   "backup_p95_abs": 0.10806226848783074
+  },
+  "LL": {
+   "quantity": "max phase",
+   "primary_max_increase": 0.0761759500530379,
+   "primary_max_decrease": -0.05495393760173517,
+   "primary_p95_abs": 0.038361483059655054,
+   "backup_max_increase": 0.19801023233556858,
+   "backup_max_decrease": -0.10551778093489439,
+   "backup_p95_abs": 0.07334189323480748
+  },
+  "SLG": {
+   "quantity": "3I0",
+   "primary_max_increase": 0.07331722373219907,
+   "primary_max_decrease": -0.06699616658888707,
+   "primary_p95_abs": 0.05423061485062755,
+   "backup_max_increase": 0.07331722373221217,
+   "backup_max_decrease": -0.06699616658888752,
+   "backup_p95_abs": 0.05471931851927003
+  },
+  "LLG": {
+   "quantity": "3I0",
+   "primary_max_increase": 0.0791980312076559,
+   "primary_max_decrease": -0.05088329802383751,
+   "primary_p95_abs": 0.057668874975970494,
+   "backup_max_increase": 0.07919803120765256,
+   "backup_max_decrease": -0.05088329802383751,
+   "backup_p95_abs": 0.05816930433593578
+  }
+ },
+ "reverse": {
+  "R1": {
+   "max_reverse_A": 0.0,
+   "ratio_to_pickup": 0.0
+  },
+  "R2": {
+   "max_reverse_A": 139.28463668804272,
+   "ratio_to_pickup": 0.8193213922826043
+  },
+  "R3": {
+   "max_reverse_A": 60.4072103706706,
+   "ratio_to_pickup": 0.8274960324749396
+  },
+  "L1": {
+   "max_reverse_A": 18.722192842398513,
+   "ratio_to_pickup": 0.6240730947466171
+  },
+  "L2": {
+   "max_reverse_A": 138.09776151720473,
+   "ratio_to_pickup": 0.7936652960758892
+  },
+  "L3": {
+   "max_reverse_A": 73.59174789210275,
+   "ratio_to_pickup": 0.7999103031750299
+  },
+  "H14": {
+   "max_reverse_A": 38.30760074397615,
+   "ratio_to_pickup": 0.8608449605387899
+  },
+  "H25": {
+   "max_reverse_A": 134.07660261488985,
+   "ratio_to_pickup": 0.893844017432599
+  },
+  "H30": {
+   "max_reverse_A": 57.46140111793883,
+   "ratio_to_pickup": 0.8706272896657398
+  }
+ },
+ "directional": {
+  "cases_above_pickup": 53482,
+  "disagreements": 0
+ },
+ "hub_voltage": {
+  "frac_below_0p5": 0.1267508610792193,
+  "frac_below_0p2": 0.04064293915040184,
+  "median": 0.8649962854486447
+ }
+}

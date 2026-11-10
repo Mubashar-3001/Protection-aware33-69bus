@@ -1,0 +1,42 @@
+feeder,kind,name,K,mean_t_ms
+33,fixed,fixed design,1,253.52
+33,best,best 1 groups,1,253.52
+33,best,best 2 groups,2,251.353
+33,best,best 3 groups,3,249.74
+33,best,best 4 groups,4,248.891
+33,best,best 5 groups,5,248.361
+33,best,best 6 groups,6,248.167
+33,best,best 7 groups,7,248.358
+33,best,best 8 groups,8,249.113
+33,best,best 9 groups,9,250.718
+33,rule,TOD,2,252.648
+33,rule,CHG,2,252.082
+33,rule,CHG25,2,252.853
+33,rule,TOD+CHG,3,253.016
+33,rule,EXP,2,254.082
+33,cluster,kmeans_K2,2,253.92
+33,cluster,kmeans_K3,3,251.378
+33,cluster,kmeans_K4,4,250.693
+33,cluster,ward_K2,2,253.165
+33,cluster,ward_K4,4,250.231
+33,per_state,own settings per state,35,249.668
+69,fixed,fixed design,1,353.547
+69,best,best 1 groups,1,353.547
+69,best,best 2 groups,2,347.947
+69,best,best 3 groups,3,346.055
+69,best,best 4 groups,4,345.328
+69,best,best 5 groups,5,345.377
+69,best,best 6 groups,6,345.511
+69,best,best 7 groups,7,345.666
+69,best,best 8 groups,8,346.721
+69,best,best 9 groups,9,348.998
+69,rule,TOD,2,353.799
+69,rule,CHG,2,353.08
+69,rule,CHG49,2,350.987
+69,rule,TOD+CHG,3,352.593
+69,rule,EXP,2,350.651
+69,cluster,kmeans_K2,2,353.799
+69,cluster,kmeans_K3,3,353.91
+69,cluster,kmeans_K4,4,351.981
+69,cluster,ward_K2,2,353.799
+69,per_state,own settings per state,35,347.415

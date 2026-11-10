@@ -1,0 +1,21 @@
+{
+ "cases": 85050,
+ "non_converged": 0,
+ "max_iter": 59,
+ "mean_iter": 15.270875955320399,
+ "seconds": 15.869239807128906,
+ "design": {
+  "fault_nodes": 35,
+  "bus_nodes": 32,
+  "hub_terminals": 3,
+  "fault_variants": 10,
+  "hub_state_combinations": 27,
+  "control_laws": 3,
+  "current_limits": [
+   1.0,
+   1.2,
+   2.0
+  ],
+  "load_scale": 1.0
+ }
+}

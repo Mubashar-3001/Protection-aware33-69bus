@@ -1,0 +1,92 @@
+{
+ "feeder": "69",
+ "by_type": {
+  "3ph": {
+   "quantity": "max phase",
+   "primary_max_increase": 0.14505965402886645,
+   "primary_max_decrease": -0.17644646026811006,
+   "primary_p95_abs": 0.06477488111647443,
+   "backup_max_increase": 0.2634045946259871,
+   "backup_max_decrease": -0.29785912570881046,
+   "backup_p95_abs": 0.1443792523100266
+  },
+  "LL": {
+   "quantity": "max phase",
+   "primary_max_increase": 0.10521590857363194,
+   "primary_max_decrease": -0.07532690792802388,
+   "primary_p95_abs": 0.0327788989889221,
+   "backup_max_increase": 0.2510759789885084,
+   "backup_max_decrease": -0.1445687512740984,
+   "backup_p95_abs": 0.09115385820832618
+  },
+  "SLG": {
+   "quantity": "3I0",
+   "primary_max_increase": 0.07135297846708033,
+   "primary_max_decrease": -0.06322153041067502,
+   "primary_p95_abs": 0.05744453660469627,
+   "backup_max_increase": 0.07135297846704369,
+   "backup_max_decrease": -0.06322153041067247,
+   "backup_p95_abs": 0.058236195518593596
+  },
+  "LLG": {
+   "quantity": "3I0",
+   "primary_max_increase": 0.07864663253984472,
+   "primary_max_decrease": -0.04391685645780341,
+   "primary_p95_abs": 0.061674814697410096,
+   "backup_max_increase": 0.07864663253982096,
+   "backup_max_decrease": -0.04391685645782295,
+   "backup_p95_abs": 0.06316211892131005
+  }
+ },
+ "reverse": {
+  "R1": {
+   "max_reverse_A": 0.0,
+   "ratio_to_pickup": 0.0
+  },
+  "R2": {
+   "max_reverse_A": 67.6932668778092,
+   "ratio_to_pickup": 0.7917341155299321
+  },
+  "R3": {
+   "max_reverse_A": 59.184343697087854,
+   "ratio_to_pickup": 0.7997884283390251
+  },
+  "L1": {
+   "max_reverse_A": 5.37767358388064,
+   "ratio_to_pickup": 0.1792557861293547
+  },
+  "L2": {
+   "max_reverse_A": 10.825011618439195,
+   "ratio_to_pickup": 0.3608337206146398
+  },
+  "L3": {
+   "max_reverse_A": 119.5710042633004,
+   "ratio_to_pickup": 0.8480213068319177
+  },
+  "L4": {
+   "max_reverse_A": 109.72170465767508,
+   "ratio_to_pickup": 0.8067772401299638
+  },
+  "H21": {
+   "max_reverse_A": 57.46140119140153,
+   "ratio_to_pickup": 0.880634501017648
+  },
+  "H49": {
+   "max_reverse_A": 114.9228023889938,
+   "ratio_to_pickup": 0.945866686329167
+  },
+  "H61": {
+   "max_reverse_A": 76.61520158983262,
+   "ratio_to_pickup": 0.8657084925404817
+  }
+ },
+ "directional": {
+  "cases_above_pickup": 89569,
+  "disagreements": 0
+ },
+ "hub_voltage": {
+  "frac_below_0p5": 0.11346615015679763,
+  "frac_below_0p2": 0.03993728094447519,
+  "median": 0.9027272605981629
+ }
+}

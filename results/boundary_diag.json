@@ -1,0 +1,167 @@
+{
+ "1.0": {
+  "n_cases": 23450,
+  "missed": 0,
+  "by_type": {},
+  "by_location": {},
+  "by_state": {},
+  "detectable_with_own_state_pickups": 0,
+  "states_with_misses": 0,
+  "by_relay": {},
+  "ct": {
+   "R1": 300.0,
+   "R2": 200.0,
+   "R3": 100.0,
+   "L1": 300.0,
+   "L2": 200.0,
+   "L3": 100.0,
+   "H14": 50.0,
+   "H25": 150.0,
+   "H30": 75.0
+  },
+  "earth_pickup": {
+   "R1": 30.0,
+   "R2": 20.0,
+   "R3": 10.0,
+   "L1": 30.0,
+   "L2": 20.0,
+   "L3": 10.0,
+   "H14": 5.0,
+   "H25": 15.0,
+   "H30": 7.5
+  },
+  "max_3I0_missed": null
+ },
+ "2.0": {
+  "n_cases": 23450,
+  "missed": 0,
+  "by_type": {},
+  "by_location": {},
+  "by_state": {},
+  "detectable_with_own_state_pickups": 0,
+  "states_with_misses": 0,
+  "by_relay": {},
+  "ct": {
+   "R1": 600.0,
+   "R2": 300.0,
+   "R3": 150.0,
+   "L1": 300.0,
+   "L2": 300.0,
+   "L3": 150.0,
+   "H14": 100.0,
+   "H25": 300.0,
+   "H30": 150.0
+  },
+  "earth_pickup": {
+   "R1": 60.0,
+   "R2": 30.0,
+   "R3": 15.0,
+   "L1": 30.0,
+   "L2": 30.0,
+   "L3": 15.0,
+   "H14": 10.0,
+   "H25": 30.0,
+   "H30": 15.0
+  },
+  "max_3I0_missed": null
+ },
+ "2.5": {
+  "n_cases": 23450,
+  "missed": 140,
+  "by_type": {
+   "SLG 100 ohm": 140
+  },
+  "by_location": {
+   "2": 35,
+   "3": 35,
+   "1-2m": 35,
+   "2-3m": 35
+  },
+  "by_state": {
+   "peak 14:off,25:off,30:off": 4,
+   "peak 14:off,25:off,30:exp": 4,
+   "peak 14:off,25:exp,30:off": 4,
+   "peak 14:off,25:exp,30:exp": 4,
+   "peak 14:exp,25:off,30:off": 4,
+   "peak 14:exp,25:off,30:exp": 4
+  },
+  "detectable_with_own_state_pickups": 44,
+  "states_with_misses": 35,
+  "by_relay": {
+   "R1": 140
+  },
+  "ct": {
+   "R1": 800.0,
+   "R2": 400.0,
+   "R3": 150.0,
+   "L1": 300.0,
+   "L2": 400.0,
+   "L3": 200.0,
+   "H14": 150.0,
+   "H25": 400.0,
+   "H30": 200.0
+  },
+  "earth_pickup": {
+   "R1": 80.0,
+   "R2": 40.0,
+   "R3": 15.0,
+   "L1": 30.0,
+   "L2": 40.0,
+   "L3": 20.0,
+   "H14": 15.0,
+   "H25": 40.0,
+   "H30": 20.0
+  },
+  "max_3I0_missed": 74.29803450664387
+ },
+ "3.0": {
+  "n_cases": 23450,
+  "missed": 168,
+  "by_type": {
+   "SLG 100 ohm": 140,
+   "3ph 5 ohm": 28
+  },
+  "by_location": {
+   "3": 47,
+   "2-3m": 43,
+   "2": 39,
+   "1-2m": 39
+  },
+  "by_state": {
+   "peak 14:exp,25:exp,30:exp": 8,
+   "light 14:off,25:exp,30:exp": 8,
+   "light 14:exp,25:exp,30:off": 8,
+   "light 14:exp,25:exp,30:exp": 8,
+   "peak 14:off,25:exp,30:exp": 6,
+   "peak 14:exp,25:exp,30:off": 6
+  },
+  "detectable_with_own_state_pickups": 76,
+  "states_with_misses": 35,
+  "by_relay": {
+   "R1": 168
+  },
+  "ct": {
+   "R1": 1000.0,
+   "R2": 400.0,
+   "R3": 200.0,
+   "L1": 300.0,
+   "L2": 500.0,
+   "L3": 300.0,
+   "H14": 150.0,
+   "H25": 500.0,
+   "H30": 200.0
+  },
+  "earth_pickup": {
+   "R1": 100.0,
+   "R2": 40.0,
+   "R3": 20.0,
+   "L1": 30.0,
+   "L2": 50.0,
+   "L3": 30.0,
+   "H14": 15.0,
+   "H25": 50.0,
+   "H30": 20.0
+  },
+  "max_3I0_missed": 74.72519301325413
+ }
+}

@@ -1,0 +1,48 @@
+{
+ "V1_33": {
+  "loss_kW": 202.68,
+  "vmin": 0.9131,
+  "vmin_bus": 18,
+  "bench": {
+   "loss_kW": 202.68,
+   "vmin": 0.9131,
+   "vmin_bus": 18
+  },
+  "ok": true
+ },
+ "V1_69": {
+  "loss_kW": 224.98,
+  "vmin": 0.9092,
+  "vmin_bus": 65,
+  "bench": {
+   "loss_kW": 224.95,
+   "vmin": 0.9092,
+   "vmin_bus": 65
+  },
+  "ok": true
+ },
+ "V2_prefault_mismatch_pu": 5.095587857953699e-14,
+ "V3_boundary_residual_pu": 1.100700764779485e-15,
+ "V4_kcl_residual_A": {
+  "pos": 4.264279728022517e-06,
+  "neg": 1.7916991583365772e-11,
+  "zero": 1.1063372649742758e-11
+ },
+ "V5_pandapower_max_rel_err": {
+  "33_3ph": 7.324905916736215e-15,
+  "33_2ph": 7.491435913560368e-15,
+  "33_1ph": 4.4544960973652985e-15,
+  "33_3ph_branch": 6.551590325186156e-14,
+  "69_3ph": 1.5229198725619617e-12,
+  "69_2ph": 1.5229477279881893e-12,
+  "69_1ph": 1.9143746546691158e-12,
+  "69_3ph_branch": 2.5182464551727046e-12
+ },
+ "pandapower_version": "3.5.6",
+ "V6_independent_converter_resolve": {
+  "cases": 78,
+  "skipped_pll_hold": 26,
+  "max_rel_err_branch_phase_current": 3.847598624806633e-07,
+  "max_abs_err_3I0_A": 1.2672945558733772e-05
+ }
+}

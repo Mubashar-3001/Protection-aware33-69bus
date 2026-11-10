@@ -1,0 +1,353 @@
+{
+ "feeder": "69",
+ "criteria": {
+  "VMIN": 0.9,
+  "VMAX": 1.05,
+  "AMP": 300.0,
+  "regime": {
+   "peak": [
+    "off",
+    "exp"
+   ],
+   "light": [
+    "off",
+    "chg",
+    "exp"
+   ]
+  }
+ },
+ "single": {
+  "2": {
+   "unmanaged": 5,
+   "managed": 14
+  },
+  "3": {
+   "unmanaged": 5,
+   "managed": 14
+  },
+  "4": {
+   "unmanaged": 5,
+   "managed": 14
+  },
+  "5": {
+   "unmanaged": 5,
+   "managed": 14
+  },
+  "6": {
+   "unmanaged": 5,
+   "managed": 13
+  },
+  "7": {
+   "unmanaged": 4,
+   "managed": 13
+  },
+  "8": {
+   "unmanaged": 4,
+   "managed": 13
+  },
+  "9": {
+   "unmanaged": 4,
+   "managed": 13
+  },
+  "10": {
+   "unmanaged": 3,
+   "managed": 13
+  },
+  "11": {
+   "unmanaged": 3,
+   "managed": 12
+  },
+  "12": {
+   "unmanaged": 3,
+   "managed": 11
+  },
+  "13": {
+   "unmanaged": 3,
+   "managed": 8
+  },
+  "14": {
+   "unmanaged": 3,
+   "managed": 6
+  },
+  "15": {
+   "unmanaged": 3,
+   "managed": 5
+  },
+  "16": {
+   "unmanaged": 3,
+   "managed": 5
+  },
+  "17": {
+   "unmanaged": 3,
+   "managed": 5
+  },
+  "18": {
+   "unmanaged": 3,
+   "managed": 5
+  },
+  "19": {
+   "unmanaged": 3,
+   "managed": 4
+  },
+  "20": {
+   "unmanaged": 3,
+   "managed": 4
+  },
+  "21": {
+   "unmanaged": 3,
+   "managed": 4
+  },
+  "22": {
+   "unmanaged": 3,
+   "managed": 4
+  },
+  "23": {
+   "unmanaged": 3,
+   "managed": 4
+  },
+  "24": {
+   "unmanaged": 2,
+   "managed": 4
+  },
+  "25": {
+   "unmanaged": 2,
+   "managed": 3
+  },
+  "26": {
+   "unmanaged": 2,
+   "managed": 3
+  },
+  "27": {
+   "unmanaged": 2,
+   "managed": 3
+  },
+  "28": {
+   "unmanaged": 5,
+   "managed": 14
+  },
+  "29": {
+   "unmanaged": 5,
+   "managed": 14
+  },
+  "30": {
+   "unmanaged": 5,
+   "managed": 13
+  },
+  "31": {
+   "unmanaged": 5,
+   "managed": 13
+  },
+  "32": {
+   "unmanaged": 5,
+   "managed": 13
+  },
+  "33": {
+   "unmanaged": 5,
+   "managed": 13
+  },
+  "34": {
+   "unmanaged": 5,
+   "managed": 7
+  },
+  "35": {
+   "unmanaged": 4,
+   "managed": 4
+  },
+  "36": {
+   "unmanaged": 5,
+   "managed": 14
+  },
+  "37": {
+   "unmanaged": 5,
+   "managed": 14
+  },
+  "38": {
+   "unmanaged": 5,
+   "managed": 13
+  },
+  "39": {
+   "unmanaged": 5,
+   "managed": 13
+  },
+  "40": {
+   "unmanaged": 5,
+   "managed": 13
+  },
+  "41": {
+   "unmanaged": 5,
+   "managed": 13
+  },
+  "42": {
+   "unmanaged": 5,
+   "managed": 13
+  },
+  "43": {
+   "unmanaged": 5,
+   "managed": 13
+  },
+  "44": {
+   "unmanaged": 5,
+   "managed": 13
+  },
+  "45": {
+   "unmanaged": 5,
+   "managed": 13
+  },
+  "46": {
+   "unmanaged": 5,
+   "managed": 13
+  },
+  "47": {
+   "unmanaged": 5,
+   "managed": 14
+  },
+  "48": {
+   "unmanaged": 5,
+   "managed": 14
+  },
+  "49": {
+   "unmanaged": 5,
+   "managed": 13
+  },
+  "50": {
+   "unmanaged": 5,
+   "managed": 13
+  },
+  "51": {
+   "unmanaged": 4,
+   "managed": 13
+  },
+  "52": {
+   "unmanaged": 4,
+   "managed": 13
+  },
+  "53": {
+   "unmanaged": 3,
+   "managed": 13
+  },
+  "54": {
+   "unmanaged": 2,
+   "managed": 13
+  },
+  "55": {
+   "unmanaged": 2,
+   "managed": 13
+  },
+  "56": {
+   "unmanaged": 1,
+   "managed": 12
+  },
+  "57": {
+   "unmanaged": 1,
+   "managed": 7
+  },
+  "58": {
+   "unmanaged": 0,
+   "managed": 6
+  },
+  "59": {
+   "unmanaged": 0,
+   "managed": 5
+  },
+  "60": {
+   "unmanaged": 0,
+   "managed": 5
+  },
+  "61": {
+   "unmanaged": 0,
+   "managed": 4
+  },
+  "62": {
+   "unmanaged": 0,
+   "managed": 4
+  },
+  "63": {
+   "unmanaged": 0,
+   "managed": 4
+  },
+  "64": {
+   "unmanaged": 0,
+   "managed": 4
+  },
+  "65": {
+   "unmanaged": 0,
+   "managed": 3
+  },
+  "66": {
+   "unmanaged": 3,
+   "managed": 12
+  },
+  "67": {
+   "unmanaged": 3,
+   "managed": 12
+  },
+  "68": {
+   "unmanaged": 3,
+   "managed": 8
+  },
+  "69": {
+   "unmanaged": 3,
+   "managed": 8
+  }
+ },
+ "buses": [
+  21,
+  49,
+  61
+ ],
+ "chargers": [
+  3,
+  6,
+  4
+ ],
+ "P_MW": {
+  "21": 1.05,
+  "49": 2.1,
+  "61": 1.4
+ },
+ "total_MW": 4.55,
+ "worst": {
+  "vmin": 0.9043455503587018,
+  "vmax": 1.037238150546507,
+  "imax": 297.26587183082,
+  "ok": true
+ },
+ "hubs": {
+  "21": {
+   "chargers": 3,
+   "P_MW": 1.05,
+   "Irated_A": 47.88450099913958,
+   "Ilim_A": 57.4614011989675,
+   "Isc_local_A": 850.1076516818215,
+   "ratio": 0.06759308786985742,
+   "S_over_Ssc": 0.05632757322488118,
+   "dv": 0.052256175505214185,
+   "cos_theta": 0.8766822746382834,
+   "rho_pred": 0.07152809224086334
+  },
+  "49": {
+   "chargers": 6,
+   "P_MW": 2.1,
+   "Irated_A": 95.76900199827917,
+   "Ilim_A": 114.922802397935,
+   "Isc_local_A": 2886.668729449594,
+   "ratio": 0.03981156591523667,
+   "S_over_Ssc": 0.03317630492936389,
+   "dv": 0.0051469432539361405,
+   "cos_theta": 0.23819195680780514,
+   "rho_pred": 0.025930060727058862
+  },
+  "61": {
+   "chargers": 4,
+   "P_MW": 1.4,
+   "Irated_A": 63.846001332186106,
+   "Ilim_A": 76.61520159862333,
+   "Isc_local_A": 1087.3619521373603,
+   "ratio": 0.07045970428524334,
+   "S_over_Ssc": 0.058716420237702786,
+   "dv": 0.05568659762144103,
+   "cos_theta": 0.8280883070643908,
+   "rho_pred": 0.0806966075666772
+  }
+ }
+}
